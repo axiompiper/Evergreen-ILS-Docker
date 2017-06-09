@@ -1,7 +1,11 @@
-MOBIUS Evergreen Docker example set
+Evergreen ILS on Docker (Local Docker)
 ===================================
 
 1.  Setup local docker. Customize docker_builds/ksl/16.04_master_cloud.yml
+
+
+
+
 2.  Customize hosts
 3.  Create a database server
 4.  docker build docker_builds/ksl/.
@@ -14,6 +18,7 @@ MOBIUS Evergreen Docker example set
 11.  kubectl create -f create_apps.yml
 12.  Refer to presentation
 [Evergreen conference 2017 presentation](http://slides.mobiusconsortium.org/blake/evergreengoogledocker/)
+
 
 
 Everything in this repository is open and free to use under the GNU.
