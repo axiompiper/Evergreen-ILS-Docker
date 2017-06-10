@@ -1,3 +1,4 @@
+#!/bin/sh
 # Run the build scripts
 apt-get update
 
